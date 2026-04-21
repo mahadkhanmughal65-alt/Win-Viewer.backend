@@ -71,7 +71,6 @@ Example request body:
   "name": "Office Workstation",
   "platform": "Windows",
   "tag": "desktop",
-  "lastSeenIP": "192.168.1.10"
 }
 ```
 

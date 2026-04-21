@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "GtTZlSskO6XmKzZqZnSDUgKx+4Q3ARGU3Acj5GRdzzo=",
+  "Source": "Win-Viewer.backend",
+  "BasePath": "_content/Win-Viewer.backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,11 @@
+@Win_Viewer.backend_HostAddress = http://localhost:5266
+
+GET {{Win_Viewer.backend_HostAddress}}/api/device
+Accept: application/json
+
+###
+
+POST {{Win_Viewer.backend_HostAddress}}/api/device/sample-device/wake
+Accept: application/json
+
+###
